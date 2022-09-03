@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace eberduman
 {
-    public partial class Form1 : Form
+    public partial class Giderler : Form
     {
-        public Form1()
+        public Giderler()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
